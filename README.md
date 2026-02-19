@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Ivo
 
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivo.tavris1@gmail.com)
+<!--[![Gmail](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivo.tavris1@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Tavris1?style=for-the-badge&logo=github)](https://github.com/Tavris1)
 
 ---
+-->
 
 ## 🔥 Featured Projects
 
@@ -20,3 +21,4 @@ One-click portable Windows installer for AI-Toolkit.
 ## 💡 Mission
 
 Making AI tools easier to install, use and maintain for everyone.
+
